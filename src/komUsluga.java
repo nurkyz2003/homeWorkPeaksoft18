@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface komUsluga {
+public interface komUsluga {
+    public void komUslugaToloo();
 }

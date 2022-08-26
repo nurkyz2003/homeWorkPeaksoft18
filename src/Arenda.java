@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Arenda {
+public interface Arenda {
+    public void arendaToloo();
 }
